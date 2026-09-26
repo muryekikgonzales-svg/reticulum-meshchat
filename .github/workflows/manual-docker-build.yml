@@ -1,6 +1,6 @@
 name: Temporary manual trigger for Docker build
 
-on:
+on:me
   workflow_dispatch:
 
 jobs:
